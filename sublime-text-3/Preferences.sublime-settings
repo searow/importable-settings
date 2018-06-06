@@ -1,0 +1,10 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+	],
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
